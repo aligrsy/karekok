@@ -1,0 +1,59 @@
+body {
+    background-image: url(karekok-isareti-nedir_6ygz.jpg);
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow-y: hidden;
+}
+.deger {
+    margin-left: 300px;
+    margin-top: 190px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    text-align: center;
+    border: 3px solid #58d4fe;
+    border-radius: 10px;
+}
+.message {
+    color: white;
+}
+body .check {
+    width: 120px;
+    height: 55px;
+    background-color: #2bc864;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5rem;
+    transform: translateY(300%);
+    margin-left: -140px;
+}
+body .check:hover {
+    opacity: 0.8;
+}
+body .message {
+    position: absolute;
+    margin-left: 825px;
+    margin-top: 260px;
+    font-size:45px;
+}
+body .clear {
+    margin-left: -126px;
+    transform: translateY(500%);
+    background-color: #f10035;
+    width: 120px;
+    height: 55px;
+    border-radius: 30rem;
+    border: none;
+    cursor: pointer;
+}
+body .clear:hover {
+    opacity: 0.7;
+}
+body h6 {
+    position: absolute;
+    color: #fff;
+    font-size: 16px;
+    transform: translateY(-70%);
+    font-style: italic;
+}
